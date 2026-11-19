@@ -25,8 +25,9 @@ Full Report with analysis and remediation steps: DNS_Spoofing_Lab_Report.pdf
 
 ## Network & Attack-Flow Diagram
 
-![Network and attack-flow diagram showing the victim and attacker VMs, the DNS spoofing step, and the HTTP credential capture step]
- <img src="attack-flow.png" width="600" alt="attack flow"/>
+![Network and attack-flow diagram showing the victim and attacker VMs, the DNS spoofing step, and the HTTP capture step]
+ <img src="attack-flow.png" width="400" alt="attack flow"/>
+ 
 
 
 ---
