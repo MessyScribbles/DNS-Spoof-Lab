@@ -76,7 +76,7 @@ All steps assume the VirtualBox topology described in the reprot: two VMs on one
 
 ---
 
-## Line-by-Line Explanation (Beginner Friendly)
+## Code Explanation
 
 ### dns.py how DNS spoofing works here
 
