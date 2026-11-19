@@ -119,6 +119,3 @@ See full report for the remediation walkthrough.
 
 ---
 
-## License
-
-This repository is currently unlicensed. All rights are reserved by the author; no permission is granted to copy, modify, or redistribute this code without prior consent.
