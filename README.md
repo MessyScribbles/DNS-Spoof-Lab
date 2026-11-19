@@ -80,7 +80,7 @@ All steps assume the VirtualBox topology described in the reprot: two VMs on one
 
 ### dns.py how DNS spoofing works here
 
-DNS is like a phonebook: a device asks "what's the number (IP address) for this name?" The catch is that classic DNS over UDP port 53 has no built-in way to verify who answered — whichever reply arrives first with a matching Transaction ID is trusted. That's the weakness this script exploits.
+DNS is like a phonebook: a device asks "what's the number (IP address) for this name?" The catch is that classic DNS over UDP port 53 has no built-in way to verify who answered and whichever reply arrives first with a matching Transaction ID is trusted. That's the weakness this script exploits.
 
 | Code | Plain-English meaning |
 |---|---|
