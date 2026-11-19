@@ -25,7 +25,7 @@ Full Report with analysis and remediation steps: DNS_Spoofing_Lab_Report.pdf
 
 ## Network & Attack-Flow Diagram
 
- <img src="attack-flow.png" width="600" alt="attack flow"/>
+ <img src="attack-flow.png" width="1080" alt="attack flow"/>
  
 
 
